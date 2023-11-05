@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645367206431",
+    "project_id": "trials-v2",
+    "storage_bucket": "trials-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645367206431:android:41145b97e7cf42c6f17b2a",
+        "android_client_info": {
+          "package_name": "com.mycompany.coursetrials"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIzIZxMEXY8f2Io9am8TI-MJ2sdjwKfh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

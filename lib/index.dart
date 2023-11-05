@@ -1,0 +1,45 @@
+// Export pages
+export '/u_t_p_family/u_t_p_family_dashboard/u_t_p_family_dashboard_widget.dart'
+    show UTPFamilyDashboardWidget;
+export '/u_t_p_family/lawyer_page/lawyer_page_widget.dart'
+    show LawyerPageWidget;
+export '/u_t_p_family/profile/profile_widget.dart' show ProfileWidget;
+export '/under_trial_prisoner/u_t_p_resources/resources/resources_widget.dart'
+    show ResourcesWidget;
+export '/u_t_p_family/document_uploads/document_uploads_widget.dart'
+    show DocumentUploadsWidget;
+export '/home_screen_login/home_login_screen/home_login_screen_widget.dart'
+    show HomeLoginScreenWidget;
+export '/lawyer/lawyer_u_t_p_list/lawyer_u_t_p_list_widget.dart'
+    show LawyerUTPListWidget;
+export '/lawyer/lawyer_dashboard/lawyer_dashboard_widget.dart'
+    show LawyerDashboardWidget;
+export '/u_t_p_family/u_p_t_check_c_n_r/u_p_t_check_c_n_r_widget.dart'
+    show UPTCheckCNRWidget;
+export '/u_t_p_family/chat_bot/chat_bot_widget.dart' show ChatBotWidget;
+export '/lawyer/lawyer_account_createfor_u_t_p/lawyer_account_createfor_u_t_p_widget.dart'
+    show LawyerAccountCreateforUTPWidget;
+export '/lawyer/lawyer_u_t_p_profile/lawyer_u_t_p_profile_widget.dart'
+    show LawyerUTPProfileWidget;
+export '/lawyer/lawyer_success_page/lawyer_success_page_widget.dart'
+    show LawyerSuccessPageWidget;
+export '/under_trial_prisoner/u_t_p_resources/u_t_p_ram_krishna/u_t_p_ram_krishna_widget.dart'
+    show UTPRamKrishnaWidget;
+export '/under_trial_prisoner/u_t_p_resources/utp_kkem/utp_kkem_widget.dart'
+    show UtpKkemWidget;
+export '/under_trial_prisoner/u_t_p_resources/utp_kgtti/utp_kgtti_widget.dart'
+    show UtpKgttiWidget;
+export '/home_screen_login/lawyer_account_creation/lawyer_account_creation_widget.dart'
+    show LawyerAccountCreationWidget;
+export '/under_trial_prisoner/u_t_p_dashboad/u_t_p_dashboad_widget.dart'
+    show UTPDashboadWidget;
+export '/under_trial_prisoner/u_t_p_recreational/recreational/recreational_widget.dart'
+    show RecreationalWidget;
+export '/lawyer/document_generation/document_generation/document_generation_widget.dart'
+    show DocumentGenerationWidget;
+export '/lawyer/document_generation/pdf_view/pdf_view_widget.dart'
+    show PdfViewWidget;
+export '/lawyer/document_generation/bail_generation/bail_generation_widget.dart'
+    show BailGenerationWidget;
+export '/lawyer/document_generation/petitions_generation/petitions_generation_widget.dart'
+    show PetitionsGenerationWidget;
